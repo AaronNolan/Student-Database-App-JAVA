@@ -1,5 +1,5 @@
 # Student-Database-App-JAVA
-*Completed as part of a Udemy JAVA Projects Course*
+**Completed as part of a Udemy JAVA Projects Course**
 
 This project does the following:
 
